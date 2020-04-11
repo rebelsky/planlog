@@ -1,0 +1,574 @@
+<i>Warning! I read plans. So do other professors.</i> If you don't want me to read your plan, put "No Professors, Please!" or something similar at the top of your plan.
+
+<i>Disclaimer:</i> The ideas and opinions expressed herein are my own, and should not be attributed to Grinnell College, Grinnell's Department of Computer Science, SIGCSE, SIGCAS, any other organizations with which I am affiliated, my family, or even most sentient beings.
+
+"Plans is like a Hunter Thompson novel." -- Ian Young
+
+<b><i>Dear Secret Santa</i></b>
+
+This is my first time in Secret Santa.  As you may know, I'm a professor of CS at Grinnell, and have been there since fall 1997.  I'm catholic (small c) in my tastes.  I probably have too many books and too much music, but am always happen to encounter more.  I certainly like tchotchkies with meaning.  I'm allergic to tree nuts and a family member is allergic to peanuts.  In the end, something you think is meaningful will be great.
+
+Oh, my address is 1120 Main St., Grinnell, IA 50112.
+
+<b><i>Musing, Rant, Rambling, Etc. of the Day</i></b>
+
+I'm doing my best to write something each each day.  You can find what I'm writing at [https://www.cs.grinnell.edu/~rebelsky/musings].  (I've been less good at daily musing of late.)
+
+<b><i>Announcements</i></b>
+
+The S&B is still posting the occasional article at [https://live.24liveblog.com/live/Uxr2T].  Most are really good.
+
+[LeachAle] has a good summary of ideas about working from home.
+
+I now have a colleague from CTLA online.  Folks should say hi to [PreastVa].  For those who don't know, CTLA is the Center for Teaching, Learning, and Assessment.  [PreastVa] does all sorts of Plans-appropriate things, including making wool from rabbit hair, reading SF, and challenging me.  (Sorry for the stereotypes.)
+
+Note to others: [Thiessen] has some great notes on homeschooling.
+
+<b><i>Prayer for a Pandemic</i></b>
+
+<i>We received this from the Diocese of Davenport (my spouse and offspring are Catholic).  They write: ""This prayer was shared by Fr. Larry Tensi [...]. It was written by a member of the Interfaith Hospitality Network in the Cincinnati area."  I find it meaningful.</i>
+
+May we who are merely inconvenienced remember those whose lives are at stake.
+
+May we who have no risk factors remember those who are most vulnerable.
+
+May we who have the luxury of working from home remember those who must choose between preserving their health or making their rent.
+
+May we we who have the flexibility to care for our children when their schools close remember those who have no options.
+
+May we who have to cancel our trips remember those that have no place to go.
+
+May we who are losing our margin money in the tumult of the economic market remember those who have no margin at all.
+
+May we who settle in for a quarantine at home remember those who have no home.
+
+During this time when we cannot physically wrap our arms around each other, let us yet find ways to be the loving embrace of G-d to our neighbors.
+
+Amen.
+
+<hr><b>Monday, 2020-04-06, evening</b>
+
+Today's musing is a set of reflections on my second manuscript for <i>The Craft of Creative Nonfiction</i>.  You can read [https://www.cs.grinnell.edu/~rebelsky/musings/eng207-2b-manuscript|the reflections], [https://www.cs.grinnell.edu/~rebelsky/musings/files/Rebelsky-2B-CulturalCritique.pdf|the manuscript]
+
+<i>Plan Chatter</i>
+
+([GhadiriM])
+
+<hr><b>Sunday, 2020-04-05, evening</b>
+
+Now that someone shared a video with me, I understand why Craig Pelton is a close match.  But I don't understand how the test figured out that I shaved my head.  Now my family is watching <i>Community</i> and I'm feeling frustrated that he rarely appears.  At least I'm laughing a lot, and laughter is good for my soul and my health.
+
+<i>Plan Chatter</i>
+
+[BelloJum]: Thanks for the lovely story.
+
+[CohnAlex]: It may just be Harris parties in general I worry about.
+
+[MillerMa]: Whoops.  I saw [MurphyMa] on Plan Genesis and my brain conjoined the double M's.  On a completely unrelated note, congrats on the last name change.
+
+[SpasaroK]: See the cool house on [LortonEl]'s plan.
+
+[WatsonD]: Thanks for the great Star Trek info.
+
+<hr><b>Saturday, 2020-04-04, evening</b>
+
+I finished the zeroth draft of my essay for Ralph Savarese today.  It's twice as long as it should be.  I think I'm in trouble.
+
+In [https://www.cs.grinnell.edu/~rebelsky/musings/personality-quiz-2020-04-04|my latest musing] I report my results of the the [https://openpsychometrics.org/tests/characters/|strange personality quiz] that [WardEliz] posted.  My closest matches are Craig Pelton from <i>Community</i> and Fogell (McLovin) from <i>Superbad</i>, both at 81%.  I learned that I have almost no clue about modern popular culture.  If you had asked me in advance, I would have said "Leonard Hofstetter", but it's clear that (a) I'm more artistic than scientific and (b) I'm more of an alpha than he is.
+
+Somewhat surprised that you folks held a Zoom Harris.  Glad that I don't know any details.
+
+Way too many (PlansHugs) seem necessary today.  I've included only a few in today's plan.  *Take care of yourselves, folks!*
+
+<i>Plan Chatter</i>
+
+([FullmerS])
+
+([MillerMa]) That's hard.
+
+[Phelps]: We've had two handles break off of our old Nissan.  The kids attempted to replace one, which involved disassembling the driver's-side door.  The replacement works at least 50% of the time.  But I'm told that [Palermo] is willing to try to fix anything, and she might give you encouragement/guidance.  (I mention this only because I believe you are both in Chicagoland.  Social distancing guideliens suggest that you should probably get the encouragement remotely.)
+
+([PierroCa])
+
+[WebsterL17]: Nice to see you on Plans.
+
+[ZakEliza]: Fortunately, I am on sabbatical and do not need to figure out remote teaching (yet).
+
+<hr><b>Friday, 2020-04-03, evening</b>
+
+Middle son tells me that there's a discussion of Plans on Young ECN.
+
+<i>Plan Chatter</i>
+
+[Feltovich03]: I probably won't still be teaching, but I hope that [Feltovich04] ends up coming to Grinnell.
+
+[MillerMa]: Molly, I think the correct statement is "[Rebelsky] is <i>back</i> on Plans."  I've been on the Web-based Plans for as long as Web-based Plans. has existed.
+
+[Routh]: Thanks for the longer reflection on nature.
+
+[Stone]: I hope that the first week of remote teaching went well.
+
+[WatsonD]: I'm not certain that it's on the IMDb channel, but it looked like it when I was searching the Interweb.  I'll post a picture when I grow the facial hair back.  (Middle son says it's too sparse to be a beard.)
+
+<hr><b>Thursday, 2020-04-02, afternoon</b>
+
+I wrote about 4.5 pages of the zeroth draft of my manuscript for <i>The Craft of Creative Fiction</i>.  At that point, I realized that (a) I didn't have energy for the rest right now, (b) the rest was another three pages or more, and (c) I probably needed to throw away two or three pages of what I'd written already.  Oh well, at least I have until Sunday.
+
+Today's fun fact: Jim Thorpe was a member of the Sac & Fox Tribe.  (Unfortunately, he was not a member of the Iowa Sac & Fox Tribe, who are only twenty miles or so from Grinnell.)
+
+<i>Plan Chatter</i>
+
+[Feltovich03]: I love the tumeric comment.  And how did you end up with a nine-letter plus two-digit user name?
+
+[Gallaghe]: My brain was initially confused by the conjunction of "I've started doing the Couck 2 5K" and "I'm here to update that I ran a 5 hour long workshop on public speaking".  My thought: "Running for five hours is a long time."
+
+[Nichols]: No worries.  I was just accepting that my memory is mediocre in that regard.  I accept that about myself.  It doesn't make me feel bad.
+
+[PreastVa]: I'm already nuts, so it doesn't make as much difference to me.  And I agree that there are gender issues.
+
+[Routh]: Read the following in Wendell Berry's "Getting Along with Nature" and thought of you.
+
+<i>And I would argue that we do not need just the great public wildernesses, but millions of small private or semiprivate ones.  Every farm should have none; wildnernesses can occupty corners of factory grounds and city lots---places where nature is give a free hand, where no human work is done, where people go only as guests.  These places fucntion, I think, whether we intend them to or not, as sacred groves---places we respaect and leave alone, not because we understand well what goes on where but because we do not.  We go to wilderness places to be restored, to be instructed in the natural economies of fertility and healing, to admire what we cannot make.</i>
+
+[WatsonD]: Tell [French] that the consensus is that he looks good with a shaved head while I look more like Uncle Fester, so it's probably not his style I'm stealing.
+
+[WatsonD] and [Bown]: You can also get season one of <i>Almost Human</i> with a free trial of IMDbPro.  (It goes away when the trial is done, but it's clearly a time to binge.)  I'll add it to my "to binge" list.
+
+[WooleryS]: When you decide, let me know.  And note that I've always suspected that I'm a fictional character.
+
+[ZakEliza]: I hadn't realized you were on plans.  For future reference, I understand that [WatsonD] is an awesome editor.
+
+<hr><b>Wednesday, 2020-04-01, evening</b>
+
+I decided to shave my head in honor of April Fools' Day.  See pictures and read more in [https://www.cs.grinnell.edu/~rebelsky/musings/april-fools-2020|Today's daily musing].
+
+<i>Plan Chatter</i>
+
+[Nichols]: Thanks for the further reminders that my memory is not good and that the eight-character-minimum has not always been the case.  (I should have known, but, well, my brain doesn't work as well as it used to.)
+
+[Routh]: I appreciate the bird-sighting reports.
+
+[WooleryS]: Makes sense.  Let me know if you'd like a photo of the new SamR reading a book (along with CC licensing).
+
+<hr><b>Tuesday, 2020-03-31, evening</b>
+
+I've managed to write [my first musing in a week](https://www.cs.grinnell.edu/~rebelsky/musings/another-month-2020-03).  It's not particularly interesting; a report of why I haven't been writing much this past month.  But at least I got some writing done.
+
+Eldest son is working on online AI for tutoring math to sixth graders.  Does anyone want to try out the system he's working on?  I don't know folks' kids' ages.  [GrykaJos]?
+
+The class of 2017 had the worst set of usernames.  Some idiot decided that they should get a 17 at the end of their usernames (e.g., [BarattaT17]) which means that their year of graduation gets identified, and they cannot use them if they want to keep their graduation year confidential).  It also outed some people who did not graduate in the normal amount of time.  I was told that they would fix it, but they never did.
+
+<i>Plan chatter</i>
+
+[Gitter]: "Backyard tennis baseball was a <i>hit</i>."  Funny.
+
+[Heider]: Thanks.  Sounds interesting.  At a recent conference, one of the things we talked about was having students try to write programs to re-identify supposedly anonymized data as a way of better understanding privacy issues.  Thanks for working on important issues!
+
+[Phelps]: Of course, people could think of it as [PhelpSha] or [pHELPsha] or [phelpSHA].  I guess being a secure hash algorithm is a good thing.
+
+[WooleryS]: It's not quite the same and it probably reveals bias on my part, but how about "androgynous reading a book"?  I found at least one picture that seemed to match your goals.  Or maybe I don't understand.  (That's nothing new.)
+
+<b>Tuesday, 2020-03-31, afternoon</b>
+
+[hilliard02], [seffjos], [fieldsr], [stutelbe], and the rest.  These days, ITS doesn't seem to care how things might read.  My CS department colleague is [OseraPet].  I have a student who is galangry, which is why too easy to parse as "gal angry".  And yes, some people still get referred to by the Grinnell username.  For example, "swoaprac" was how many referred to Rachel Swoap '19.
+
+<b>Tuesday, 2020-03-31, late morning</b>
+
+CS Table is continuing virtually thanks to [OseraPet].  I'll check with PM to see if alums are welcome.  (If so, I'll post info here in the future.)
+
+Prof. S's synchronous writing workshop went quite well today, in spite of a bit of technical confusion at the beginning.  Kudos to Ralph!
+
+Walking downtown and looking at the paper taped to the storefronts, I find myself wanting to do a project called "Signs of the pandemic".
+
+Middle child has committed to UW Madison for graduate school.  Perhaps I'll get a chance to see some of the wonderful alums there when/if I visit him.  (He took the large number of Sam-alums as a good things; it means he can easily get rid of me when I visit.)
+
+Today's paranoid thought: The GOP response to the global pandemic is their way of addressing what they think of as the social security and medicare crisis.
+
+I finally manged to clear through my auto-read list!  Now I have to go back to some of the longer plans and the decade-long histories.  But that's a task for another day.
+
+<i>Plan Chatter</i>
+
+[bashlovk]: It looks like you've been on plans recently, but haven't updated.  I hope you are well.
+
+[BelloJum]: Thanks for the great T.H. White quote.
+
+[Bown]: Thanks for the sourcing.  I'll need to find a way to play with it.
+
+[CohnAlex] or [YoungIan] or other technical person: Is there an easy way to set up a Git repo for my plan?  Or is that on the long-term list.
+
+[Curtsinger]: Are you really on plans?
+
+[Feltovich03]: My assumption was that people were generally trying to limit their time outside the home (except for those who, by necessity, have to be outside the home, such as those working in grocery stores) and that the people with limited time outside would wear cloth masks and wash them between trips, which is what I think you are suggesting.  Since I have no symptoms since my plane flights of more than two weeks ago, I want to assume I'm not a carrier.  But I live with a medical person, so I think wearing a mask when I go out still protects others.
+
+[FullmerS]: Thanks for the additional info.
+
+[GuhaArju]: Did you get the stickers?
+
+[Palermo]: That's a great attitude to have.  <strike>On a completely separate note, how did you end up with a seven-letter account name.</strike>. Okay, I'd forgotten that Grinnell used to be less strict about eight+-letter account names.  But I still think it would have been great if you were PalerMom. 
+
+[Jacobso2]: It looks like you've been on plans recently, but haven't updated.  I hope you are well.  Update: Glad you are well.  Sorry for misspelling your user name.  Glad you saw my comment to you anyway.
+
+[OseraPet]: Are you really on plans?
+
+[PerlMutt]: Glad to see you back on plans!  (I'm also glad to be back on plans.)
+
+[Phelps]: (((Ruby)))
+
+[SinghAru]: It looks like you've been on plans recently, but haven't updated.  I hope you are well.
+
+[SmithSar]: I've forwarded along the historical email.
+
+[Thiessen]: Thanks for the additional mask info.  I read a summary of the article you read; I thought the 91% also included gowning, but I could be wrong.
+
+[Waldron]: Thanks for the additional info!
+
+[Wellons]: It looks like you've been on plans recently, but haven't updated.  I hope you are well.
+
+<hr><b>Monday, 2020-03-30, evening</b>
+
+Today slipped away.  And I have a lot of homework to do for <i>The Craft of Creative Nonfiction</i>, so I probably shouldn't be on plans.  But I can spare a few minutes.
+
+Can I be grumpy that when I try to electronically approve a student's declaration of major, I get thrown onto a page on which I have to agree to ads from Microsoft before I proceed?  (Followup: It appears they only did testing with Office 365 email.  If you use that, you don't get thrown onto that page.)  I know folks at the Registrar and ITS are working hard, but if the College is telling us not to throw lots of software platforms at students, they shouldn't be throwing lots at us.
+
+I'm still trying to figure out the correct recommendation on masking.  I wear one whenever I go out because I'm married to a medical person, and want to be careful.  Normal people shouldn't be hoarding the N95 masks, which are necessary for medical folk, but wearing the sewn masks protects other folks from you (even if you don't realize you are sick).  From what I understand, if everyone masks, it makes some difference.  But I'd swear I just heard someone from the WHO on NPR saying not to masks.
+
+With regards to house cleaning: I also regularly hire office cleaners, in part because it gives me a time that I know I'm going to work with someone to attempt to make a positive impact on the chaos around me.
+
+<i>Plan Chatter</i>
+
+[Bown]: "Rebel-Spy" feels like a bit of an invasion of my namespace.
+
+[CheneyJe]: Don't forget that you also worked to help with the pit that is my office.
+
+[FullmerS]: I only saw one comment on immunity in that article.  Is the suggestion that the novel coronavirus is less likely to mutate than, say, the coronavirus that causes the common cold (and which we don't develop immunity to)?  In any case, it looks like a cool project.  (That is, your hack looks useful.)
+
+[Goldberg]: It looks like you are logging in, even if you're not updating.  I hope you are well.
+
+([JarvisJa])
+
+[LauzeNat]: Glad you are alive.
+
+[Palermo]: I'm impressed that you know how to take apart a furnace and exhaust motor.
+
+[Stone]: It's taking practice not to address you as [Reseda].  I agree that "trying to monitor or regulate out-of-band collaboration is counterproductive".  I've still found that in-band discussion with instructor input is helpful, but, as you know, we've found that each of us approaches things differently.
+
+[WooleryS]: Why would someone own something other than an Apple device?  (That was intended as a joke.)
+
+<hr>
+<b>Sunday, 2020-03-29, early afternoon</b>
+
+My special surprise of the day was receiving a cloth mask from [PreastVa].  Thanks!
+
+They've cancelled Scarlet & Give Back Day this year.  That makes my plan to encourage every student in the class of 2020 to donate a bit more difficult.  So my new idea is to get a donation made in honor of each member of the class of 2020.  I wonder how I'd organize such an effort.  Maybe I should just write to development.  I should also talk to Michelle.
+
+<i>Plan Chatter</i>
+
+((([BurkeK01]))) Really belated love to you.  I had not heard about the loss.  I have no other words.
+
+[CohnAlex]: The world has changed in the decade or so since you graduated.  I believe (hope) that drunken hookups are mostly a thing of the past.
+
+[Feltovich03]: I hope you feel better soon!
+
+[FullmerS]: Do we know that recovering conveys immunity?
+
+([McKinstr])
+
+[Phelps]: Good luck on your life as Monday multitasking mom!
+
+[Stone]: I'll put Mattermost on my "things to look more at" list.  I will admit that I'd like to see a way for your class to have discussions that don't need to go through you.  Nonetheless, I understand your objections to the privacy-invading technologies out there and your concerns about the burden each new technology puts on your students.
+
+<hr>
+<b>Saturday, 2020-03-28, early afternoon</b>
+
+I'm getting burned out on social media (and, I suppose, everything).  I'll still be on [Plans], but perhaps a bit less often.  (I guess that's happened already.)
+
+In spite of that, I think I've now made it through all the plans on my auto-read list that have been updated in this year.  I still have a lot from the past few years, since it's been far too long since I've been on plans.  (I still had a plan on that list last updated in 2015.)
+
+Parts of my family have been watching <i>Legends of Tomorrow</i> for the past few years.  I join in once in a while.  But I've realized that I don't know many of the characters in the show, so I've decided to have it on in the background while I'm doing other work.  (Yes, I realize it slows down my work.)  It's odd knowing that some of the characters will definitely survive whatever situation they are in (e.g., Mick Rory has just been kicked off the ship), since they are still there in the current season.
+
+A lot of former students are dealing with house issues.  [Carey] just put in an offer.  [TapeSamu] and [CheneyJe] are moving into a new house and remodeling.  [SpasaroK] is looking for a house.  [CohnAlex] and [WooleryS] are doing serious remodeling.  I feel like there are others, too.
+
+<i>Plan Chatter</i>
+
+[CohnAlex] and [GhadariM]: Drunken hookups are not a good idea.  (Not that I was suggesting you would engage in them, but you did mention them in your discussion.)
+
+[Hunter]: Nice to see you on [Plans].
+
+[Kuper]: Belated congratulations on Sylvia.  If you send me a size after I can return to campus, I'll send you one of our special Grinnell CS kids shirts.  (The same holds for any CS alum, or those that want to pretend to be one, at least until we run out.)  I'll also try to send students your way.
+
+[MarcumSa]: Safe travels back to the Midwest.
+
+[PreastVa]: I'm limiting my time outside the house.  If you wanted to leave it outside your place in a box/bag on Monday morning at 8:30am, I could pick it up on a walk.  Or you could leave it outside our place (1120 Main St.)
+
+[PreastVa]: I wasn't able to update as much as I wanted; the session took a lot of my attention.
+
+[Raulerso]: When folks here talk about house cleaners (and lawn mowers, and such), it's often in terms of work-life balance.  Sacrificing some cash to have more time with family is worth it to many people.  I expect that there are also issues of enjoyment; some folks like cleaning, or mowing, or whatever.  Others do not.
+
+[StubbleB]: You split your time between two hot spots.  You could share your concerns about that.  Or, given that you are a bit of a wellness guru, you could use Plans to suggest wellness approaches for these troubling times.
+
+[WeinmanJ]: Thoughts are with you and yours.  Like you, I'm worried about the effects of social media on my mental well being.  I hope you find ways to sleep.  And I hope the boys (all three?) continue to do well.
+
+[WooleryS] and [CohnAlex]: Congrats on the cabinets.  Sorry about the long prereq chain.  Good luck on managing it.
+
+<hr>
+<b>Friday, 2020-03-27, early afternoon</b>
+
+I'm updating my Plan while watching a seminar/discussion about teaching online.  I'm not sure that's the best kind of multitasking.
+
+I'm intrigued to see that the S&B is the only source that reports where the first case in Grinnell came from: <https://live.24liveblog.com/live/Uxr2T>.
+
+I do not understand the "facts about SamR" on [VaccaroD]'s plan.  I wonder what inspired them.  (And yes, I realize that they are a decade old.  I think these days, they would be "facts about Charlie".)
+
+<i>Plan Chatter</i>
+
+[Heider]: Congrats on the good attendance at your virtual talk.  What was the subject?
+
+[LeachAle]: Glad to hear that mentoring has been such a positive experience.  We are trying to expand/change the group of mentors.
+
+[PerryA] and [Quance]: Congrats on the near-arrival.  Good luck with the expected chaos.  Thoughts are with you.
+
+[Shkolnic]: Good to hear.
+
+[Stone]: How about Mattermost?  It seems to be similar to Slack, but open-source and with the option of self hosting.  (I have not looked deeply at it.)
+
+[YoungIan]: Welcome back!
+
+<hr>
+<b>Wednesday, 2020-03-25, early afternoon</b>
+
+What could be better than reading Plans while listening to Jon Richardson '10 play an online children's show?  (I'm listening because I'm young at heart.)
+
+Trying to figure out what I can do for the students who left College housing but reasonably feel that they can't leave the town.  (The few I've talked to say that they understand why the College didn't want to keep them on campus, but also don't feel comfortable going home.)
+
+<i>Plan Chatter</i>
+
+[CarlsonP]: I feel like I need to "like" you post about Harvey and the iPad.
+
+[CohnAlex]: Hmmm ... I wonder how big that is.  I'll try not to push boundaries.
+
+[FullmerS]: Glad that you are recovering.  Good luck on the new job!  And while I would not use profanity in saying so, I agree that those who are managing work from home along with child care and teaching from home are amazing.
+
+[GrykaJos]: Although the College has done a lot you (and I) might not agree with, it also continues to a lot of good.  And the folks on campus really do care about students; for example, the crack in Sarah Moschenross's voice when she was doing a campus call with parents was painful and revealed her depth of care.
+
+[HamannDa]: {https://www.nytimes.com/2020/03/22/health/coronavirus-symptoms-smell-taste.html}
+
+[LeachAle]: Thanks for the tips on working from home and for the decade summary.  Should I be happy that CSC-322/324 plays a role in that summary?
+
+[Palermo] and [Routh]: Glad that you are getting time to walk (through mud?) together daily.
+
+[Phelps]: Happy Anniversary! (of sorts)
+
+[SmithSar]: Congrats on having another on the way!  I hope that brings joy in these troubling times.  On a completely separate note, in looking back on my email, I see that back in 2006, we discussed a rumor that Kesho started that she was looking at another job.  Did you know that she has now moved on to Senior Faculty Status?
+
+[WatsonD]: It's a balance.  Michelle and I both spend time with the kids.  We just work a lot.
+
+[WooleryS]: Sorry that I won't see you at this year's reunion, but I look forward to next year's!
+
+<hr>
+<b>Tuesday, 2020-03-24, afternoon</b>
+
+I'm continuing to enjoy watching Jon Richardson '10's daily piano bar shows on Facebook.  I hope to see more of you there.
+
+Finally got a note out to my summer MAP students.  (They knew they were my MAP students; this was more of a "Here are some things you might do", including writing the legendary, "At the end of the summer" sentence.)  I really hope that I can run MAPs this summer, preferably in person, but virtually if necessary.  Of course, I'm not sure how remote user testing will go, but that's an issue for another day.
+
+One of the best parts of being back on plans is getting to hear about the kids my students have had or are having.  Thanks for the updates folks!  It's awesome seeing you adulting.  (It's wonderful to hear about those who don't have kids, too.)
+
+<i>Plan Chatter</i>
+
+[CohnAlex]: You probably shouldn't tell me that I can go beyond the progress bar.  Does that mean I never have to cut?
+
+[MichaelK]: It probably doesn't help, but my wife (a local physician) has similar thoughts going through her head.  As [Nichols] says: Thanks for the hard and important work you are doing.
+
+([Mastas])
+
+[OfferWes]: Doug hasn't been doing great lately.  This was going to be his 50th year of teaching, but he wasn't able to run his courses this year.  I'm sure any/all faculty would love to hear from you.  Other Grinnell-Chicago connections: George Drake's Ph.D. (DDiv?) is from Chicago as is Anne Harris's (Anne is our new Dean), as well as Pablo Silva (History), Ed Cohn (History), Susan Ferrari (Grants), mine (CS), and probably some others.  John Stone, Mark Levandoski, and I were undergrads there, too.  Probably more.
+
+([Phelps])
+
+[PreastVa]: I'd love a face mask if you're making one.  If you want to drop off masks at the hospital, I think the drop-off point is on the first floor of the medical arts building.
+
+[PreastVa]: Good luck in your initial exposure to the amazing Plans community.
+
+[Shkolnic]: I hope that they've extended the March 25 'back to work' date.
+
+[Stomber]: Thanks for restoring me to your autoread list (or did you just mean that you appreciate that I'm posting again?).  And glad to hear that Minnesota Mining and Manufacturing is doubling their output of N95 masks.
+
+[Torner]: Has the new addition to your household arrived?
+
+[WatsonD]: I don't know if it helps, but my eldest complained that neither his mother nor I prepared him for forty-hour work weeks.  (Sixty seems to be what my kids expect.)
+
+<hr>
+<b>Monday, 2020-03-23, early afternoon</b>
+
+Managed to skim six or so plans in the fifteen minutes I allotted myself.  (Also realized that I can't spell "allotted".)  It remains great to reflect on all the wonderful alums and other folks on plans, a ray of sunshine in these complex times.
+
+<i>Plan Chatter</i>
+
+[Bradbury]: Congrats on your acceptance into a grad program in instructional design!
+
+[CheneyJe]: Professional comment: Have you seen Jennifer Cross's <i>Writing Ourselves Whole</i>?  If you think it would be useful for those you serve, let me know and I'll send a copy.  (Jen was a student from my Dartmouth days.)
+
+[OfferWes]: Congratulations!  It's awesome to hear that you are joining my alma mater.  I assume you've told your Grinnell faculty but, if not, you should.
+
+([Phelps]), just because it sounds like you need a few hugs right now.
+
+[Raulerso]: I think I'm a high-HDYHAS person, although "sec" is way undercounting.
+
+[TapeSamu] (and [CheneyJe]): It was great to be able to read about the evolution of your relationship.  Thanks for the post.
+
+[WatsonD]: Other than on-the-job-training (e.g., [fill in your choice]), I'm not sure how we could have trained you to productively waste time at the office.
+
+<b>Monday, 2020-03-23, morning</b>
+
+I really need to find a way to get myself into work-from-home mode, or at least muse-from-home mode.  I'm too used to my sabbatical office as my place of working.
+
+(((Everyone whose income is at risk)))
+
+(((And many more people)))
+
+<i>Plan Chatter</i>
+
+[Aswell]: Thanks for the sweet/happy/sad comment from your offspring.
+
+[Stone]: That makes sense.  Asynchronous is probably best and email is likely the best asynchronous solution given your principles.
+
+[PreastVa]: I'm working on a long thank-you musing.  Maybe I'll actually get it done today.
+
+[WooleryS]: Thanks.  Other questions: <strike>What classes are you taking?</strike> Update: Sounds like a nice group, although I'm not sure how you do screenprinting online.  
+
+[WooleryS]: Were you due back for reunion this year, or is that next year?
+
+<hr>
+<b>Sunday, 2020-03-22, later evening</b>
+
+Tax materials all gathered and ready to go to the accountant.  It will be strange not being able to meet in person.  It feels like my questions always amuse him.
+
+<i>Plan Chatter</i>
+
+[Baumgar2]: The College is likely to lose a lot, particularly given the commitment to paying staff.  (I'm happy we made that commitment.)  The refunds of housing are big.  The loss in the stock market and other investments is big.  There will be some issue with attracting international full-pay studnets next year.  But we are so much better resourced than most institutions; I have no doubt we will get through it.
+
+[CheneyJe]: Good luck to your students.  I hope that the college can find resources for them.  It looks like Grinnell worked hard to make resources available, but I'm not on the ground so I can't know for sure.
+
+[RhoadesJ]: Congratulations.  That's nice news in troubling times.
+
+[Stomber]: Don't blame ITS for the donation form.  They don't support the DAR Web site.  (Or at least they didn't when I last checked.) 
+
+[Stone]: Why not IRC? 
+
+[YoungIan]: Thanks for suggesting MEUTE as a soundtrack for my plans-time.
+
+<b>Sunday, 2020-03-22, early evening</b>
+
+Coming back to Plans reminds me of how much I appreciate all of the Grinnellians I've had the opportunity to teach and get to know.  (Well, <i>most</i> of the Grinnellians I've gotten to know.)
+
+I've spent the afternoon trying to log the books for work and work supplies I've bought this past year. (Yup, it's tax season.) I think I bought too much.  That's probably not surprising to anyone who knows me.  But I'm now sure that when I teach Tutorial next, I'll have more than enough copies of <i>Style: Toward Clarity and Grace</i>.  Well, that's assuming I can find them in my research lab.
+
+Reminder to self: Read [PierroCa]'s plan before they take down the past decade of their life.  (But not right now; you have a backlog of eight-plus plans to scan.)  (It's good to hear that I have time.)
+
+Note to self: Fifteen minutes goes quicker than you think.
+
+<i>Plan Chatter</i>
+
+[CohnAlex]: Damn.  I'll need to push harder to get new people on Plans.
+
+[FullmerS]: It's nice to be back.  I enjoy seeing you here and on Facebook.  And does <i>A Chorus Line</i> count as a dance movie?  (I prefer the stage version, but it's something.)
+
+[OhligerJ]: Good luck on the job search!
+
+[PreastVa]: I've heard suggestions that it would be good for everyone in town to wear the homemade masks when out and about.  They protect others from your coughs and help protect you from others.
+
+[WooleryS]: Where am I supposed to post info for my Secret Santa?  And don't they become less secret when the packages arrive?  (Or do folks not bother with return addresses?)
+
+<b>Sunday, 2020-03-22, early afternoon</b>
+
+Trying to limit myself to fifteen minutes on Plans at a time.  We'll see how that goes.  I currently have 54 folks in my level 1 autoread list, and that's after reading over a dozen last night.  I'm hoping that the PlansPlus script will help me navigate my plan love, particularly since I have huge amounts of old PlanLove, dating back to 2006 or so.
+
+<i>Plan Chatter</i>
+
+[Aswell]: That makes a lot of sense.  Sorry if it felt like I was pushing you.  Take care of yourself.
+
+[CohnAlex]: Are new plans appearing in Plan Genesis?  I thought [PreastVa] was created recently, but don't see her there.  You might also want to add a welcome to folks from the class of 2020 (or to anyone joining in these troubling times) to the front page.
+
+[DabneyKr]: I'll work on encouraging people to join.
+
+[Nichols]: Finally installed PlansPlus.  Fingers crossed that I'll figure it out.  Thanks for the tip.
+
+[PreastVa]: Level 1, Level 2, and Level 3 are your "auto read" lists.  It's a way of seeing which of your friends (PlansPals?) have updated since you've last read them.  You can use the three levels however you'd like.  At one point, I used Level 1 for alums, Level 2 for faculty/staff, and Level 3 for current students.  When you are reading someone's plan, you can select a level for them at the bottom.  And didn't I tell you about [newbie] in email?
+
+[WatsonD]: Happy Birthday!  And send my best to the foreign language you live with.
+
+<hr>
+<b>Saturday, 2020-03-21, evening</b>
+
+It appears that I did not make it back on Plans.    
+
+Plans is a better community than Facebook.  So I'm going to try to make it back here more often.
+
+The wonderous Jon Richardson '10 [Richards2] has been doing a daily piano bar on weekdays.  Check him out on Facebook: https://www.facebook.com/jonrichardsonmusic/.  
+
+I wonder if [Aswell] is planning any interweb-based shows.  I missed her performance at Grinnell :-(.
+
+(((Seniors who don't get graduation or a chance to do recitals or to finish their seasons or ....)))
+
+((([JarvisJa])))
+
+((([FullmerS])))
+
+(((Others I've missed or have not gotten to yet.)))
+
+<i>Plan Chatter</i>
+
+[FullmerS]: Thanks for thinking about others.  Masking when you go out and washing hands before you leave is likely to provide others with some protection if you must go out.  But staying in is clearly better.
+
+[Gallaghe]: I've heard that U.S. Consulates in China aren't making visa appointments, or putting them off to October.  It's going to be a troublesome year next year.  Thoughts are with you.
+
+[LabasanE]: I understand the need to keep a bit more private when you are working on campus.  (I clearly don't follow that advice, but I have the power of tenure to protect me.)
+
+[Lentz]: Glad you are okay.
+
+[Raulerso]: Congratulations!  (I think I said that already, but adding more congratulations never hurts.)
+
+<hr>
+<b>Friday, 2020-01-31, evening</b>
+
+On for another fifteen minutes.  (See below.)   Realized I really need a way to do NewLove.  Found a nice "congrats [rebelsky] !!!!!!!" from [CookA], but it turns out that they were congratulating me for some something a decade or more ago.  I wonder what it was.  I see that [RosenDav] attempted to categorize my Myers-Briggs type for [SpasaroK].  I'm surprised to see that he tagged me as an "E".  I tend to be at almost purely "I".  (Some "I"'s behave very differently in professional situations, and don't lose nearly as much energy in those situations.)
+
+[Nichols]: Thanks for the PlansPlus recommendation.  I'll check it out.
+
+[YoungIan]: Thanks for the link.  I was able to do a quick scan of my quicklove, and did see your link.  I look forward to seeing you when you are back in Grinnell.  Don't forget to check out [Aswell]'s show on Friday night.
+
+<hr>
+<b>Friday, 2020-01-31</b>
+
+I was talking to a senior (not in CS) about job hunting in UX/UI.  I mentioned that they should look on GrinnellPlans.  They'd never heard of it.  That's so sad.  I'm glad to see the community is still active!  Can I go back on plans without getting sucked into the vortex of spending too much time reading about alumni who I care about?  And whatever happened to my NewLove script?  (Or anyone else's NewLove script?)
+
+I wonder if I should explicitly mention each new daily musing on Plans.  [https://www.cs.grinnell.edu/~rebelsky/musings/cool-friends-2020-01-30|Yesterday's] was a quick fan letter to [HeckR].  Tonight's will be a boring month in review.
+
+For those who don't follow "SamR's Assorted Musings and Rants", I'm on sabbatical this year.  This semester, I'm taking Ralph Savarese's "Craft of Creative Nonfiction" and Justin Thomas' "Digital Media Design for Performance".   
+
+<i>Plan Chatter</i>
+
+[Aswell]: Glad to see that you're coming back to campus.  Hope to catch you at Learning From Alumni.
+
+[CohnAlex] and [WooleryS]: It's nice to see that you have a place of your own and a remodel 'blog.  I enjoyed seeing some pictures of Alex on the 'blog.
+
+[FarmerLe]: I'm glad to see that you still exist, even though you never respond to my Facebook messages.  I'm amused that parts of your plan remind me of your project for my class.
+
+[Feltovich03]: Congratulations on the good news.  (I've already congratulated you on the tenure and the remodel, this is the other good news.)
+
+[LabasanE]: It looks like you've been away from Plans for awhile.  I wonder if being on campus makes you less inclined to be on Plans.
+
+[Malinow1]: The (prospective) class years for your offspring are utterly terrifying.
+
+[Mitchell17]: You don't seem to be on Plans right now, but have been here recently.  I've suggested you as a mentor for CSC 324.
+
+[EveryoneElse]: I'm trying to keep my time on plans reasonable.  The alarm has gone off on my watch.  You may see comments from me tomorrow or the near future.
+
+<hr>
+<b><i>The Basics:</i></b>
+
+Samuel A. Rebelsky, Professor, Once and Future Chair of Computer Science
+Department of Computer Science
+Grinnell College, 1116 8th Avenue, Grinnell, Iowa 50112
+Office: 641-269-4410 ; Fax: 641-269-4285 ; Cell: 641-990-2947
+[mailto:rebelsky@grinnell.edu|rebelsky@grinnell.edu] ; [http://www.cs.grinnell.edu/~rebelsky/|http://www.cs.grinnell.edu/~rebelsky/]
