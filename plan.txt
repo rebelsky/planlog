@@ -1,14 +1,6 @@
 <i>Warning! I read plans. So do other professors.</i> If you don't want me to read your plan, put "No Professors, Please!" or something similar at the top of your plan.
 
-<i>Disclaimer:</i> The ideas and opinions expressed herein are my own, and should not be attributed to Grinnell College, Grinnell's Department of Computer Science, SIGCSE, SIGCAS, any other organizations with which I am affiliated, my family, or even most sentient beings.
-
 "Plans is like a Hunter Thompson novel." -- Ian Young
-
-<b><i>Dear Secret Santa</i></b>
-
-This is my first time in Secret Santa.  As you may know, I'm a professor of CS at Grinnell, and have been there since fall 1997.  I'm catholic (small c) in my tastes.  I probably have too many books and too much music, but am always happen to encounter more.  I certainly like tchotchkies with meaning.  I'm allergic to tree nuts and a family member is allergic to peanuts.  In the end, something you think is meaningful will be great.
-
-Oh, my address is 1120 Main St., Grinnell, IA 50112.
 
 <b><i>Musing, Rant, Rambling, Etc. of the Day</i></b>
 
@@ -16,35 +8,50 @@ I'm doing my best to write something each each day.  You can find what I'm writi
 
 <b><i>Announcements</i></b>
 
-The S&B is still posting the occasional article at [https://live.24liveblog.com/live/Uxr2T].  Most are really good.
+I've moved the Prayer for the Pandemic to the end of my plan.
 
-[LeachAle] has a good summary of ideas about working from home.
+<hr><b>Saturday, 2020-04-11, afternoon</b>
 
-I now have a colleague from CTLA online.  Folks should say hi to [PreastVa].  For those who don't know, CTLA is the Center for Teaching, Learning, and Assessment.  [PreastVa] does all sorts of Plans-appropriate things, including making wool from rabbit hair, reading SF, and challenging me.  (Sorry for the stereotypes.)
+I took a needed break from Plans.  But I got my Secret Santa gift in the mail, and it sounds like my Secret Santa got my gift in the mail to me.
 
-Note to others: [Thiessen] has some great notes on homeschooling.
+Currently reading: _The Starless Sea_, by Erin Morgenstern.  Also _The Art of Deliberaizing: A Handbook for True Professionals_, a short pamphlet by Wayne Booth.
 
-<b><i>Prayer for a Pandemic</i></b>
+As [Stone] has mentioned, the College has asked faculty to limit their use of software to that which is approved by ITS, but they don't have a list of approved software available.  I have switched my booking system to the approved Microsoft Bookings.  I'm glad that, in response to a question, they told me that I am free to use (and to ask students to use) any software in a standard Linux distribution.  I've asked about Trello and Slack.  ITS has forwarded both requests to our contract checking person.  But they've also asked whether Microsoft Teams might suffice as a Slack replacement.  Since I don't have permissions to create my own team, I think not, but I'm waiting for my official Teams training.
 
-<i>We received this from the Diocese of Davenport (my spouse and offspring are Catholic).  They write: ""This prayer was shared by Fr. Larry Tensi [...]. It was written by a member of the Interfaith Hospitality Network in the Cincinnati area."  I find it meaningful.</i>
+Today's stupid question: Where does one get buckwheat groats?  I'm feeling a desire to make kasha varnishkes.  (You have your comfort food, I have mine.)
 
-May we who are merely inconvenienced remember those whose lives are at stake.
+<i>Plan Chatter</i>
 
-May we who have no risk factors remember those who are most vulnerable.
+([FoleyA])
 
-May we who have the luxury of working from home remember those who must choose between preserving their health or making their rent.
+[FullmerS]: I always knew that you were a magical woodland fairy.  You just need to concentrate enough on your skills.  On a separate note, the CPSR mailing list is having an interesting discussion of software that (anonymously) tracks whether you've been near an infected person, but it assumes that infected people are willing to mark that in the software.  And since I haven't been on Plans in a few days, I don't know the current status of your family's health, but I'm thinking of you in any case.
 
-May we we who have the flexibility to care for our children when their schools close remember those who have no options.
+([GhadiriM1])
 
-May we who have to cancel our trips remember those that have no place to go.
+([Jacobso2])
 
-May we who are losing our margin money in the tumult of the economic market remember those who have no margin at all.
+[LieblHan]: When did you become a software professional?
 
-May we who settle in for a quarantine at home remember those who have no home.
+[Phelps]: I know it wasn't directed to me, but thanks for the
+recommendation of cooking <em>en papillote<?em>.
 
-During this time when we cannot physically wrap our arms around each other, let us yet find ways to be the loving embrace of G-d to our neighbors.
+([PierroCa])
 
-Amen.
+([Sherwood00])
+
+[StJohnS] and [WooleyS] and whoever else worked with Wisconsin Polls: **Thank you!**
+
+[Stone]: You missed the Faculty Meeting (I'm told there's a recording somewhere), but the folks leading the Pandemic Planing were referred to as both "The Triumverate" and "The Troika".
+
+[Stone]: I added an RSS feed in January 2018, around musing 500.  Some details are at [https://www.cs.grinnell.edu/~rebelsky/musings/rss-feed].  It's hard for me to believe it was that long ago.  Of course, some folks (e.g., [CohnAlex]) seem to have decided to watch the Git repo instead.
+
+[Stone]: I would not want students to delay their graduation, but I agree with your sense that students might be able to get an equally good (or better) online education elsewhere for cheaper.
+
+[WatsonD]: Is Mark printing face shields wih his 3D printer?  On a separate note, like you, I keep acquiring books (physical from places like BetterWorldBooks, electronic from multiple places).  Yet here I am on plans, instead of reading.
+
+[WolterZo]: Sorry that you are half furloughed.
+
+[WooleryS] and [CohnAlex]: Have you selected paint colors?  And when were you in Grinnell?  (I'm just noting that you were from [LabasanE]'s plan.)
 
 <hr><b>Monday, 2020-04-06, evening</b>
 
@@ -563,6 +570,32 @@ For those who don't follow "SamR's Assorted Musings and Rants", I'm on sabbatica
 [Mitchell17]: You don't seem to be on Plans right now, but have been here recently.  I've suggested you as a mentor for CSC 324.
 
 [EveryoneElse]: I'm trying to keep my time on plans reasonable.  The alarm has gone off on my watch.  You may see comments from me tomorrow or the near future.
+
+<hr>
+<b><i>Prayer for a Pandemic</i></b>
+
+<i>We received this from the Diocese of Davenport (my spouse and offspring are Catholic).  They write: ""This prayer was shared by Fr. Larry Tensi [...]. It was written by a member of the Interfaith Hospitality Network in the Cincinnati area."  I find it meaningful.</i>
+
+May we who are merely inconvenienced remember those whose lives are at stake.
+
+May we who have no risk factors remember those who are most vulnerable.
+
+May we who have the luxury of working from home remember those who must choose between preserving their health or making their rent.
+
+May we we who have the flexibility to care for our children when their schools close remember those who have no options.
+
+May we who have to cancel our trips remember those that have no place to go.
+
+May we who are losing our margin money in the tumult of the economic market remember those who have no margin at all.
+
+May we who settle in for a quarantine at home remember those who have no home.
+
+During this time when we cannot physically wrap our arms around each other, let us yet find ways to be the loving embrace of G-d to our neighbors.
+
+Amen.
+
+<hr>
+<b><i>Disclaimer:</i></b> The ideas and opinions expressed herein are my own, and should not be attributed to Grinnell College, Grinnell's Department of Computer Science, SIGCSE, SIGCAS, any other organizations with which I am affiliated, my family, or even most sentient beings.
 
 <hr>
 <b><i>The Basics:</i></b>
