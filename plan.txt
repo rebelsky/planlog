@@ -10,6 +10,36 @@ I'm doing my best to write something each each day.  You can find what I'm writi
 
 I've moved the Prayer for the Pandemic to the end of my plan.
 
+CS Table on April 14 is open to alums and is on "Scamming the Scammers".  Further details at the end of my Plans.
+
+Web: [https://us.bbcollab.com/guest/5b05c02b0e6b480680c6bb563d961ab4]
+
+Phone: +1-571-392-7650 PIN: 513 643 7962
+
+<hr><b>Sunday, 2020-04-12, evening</b>
+
+We finished the Rebelsky Reading Group discussion of _The Starless Sea_.  I'd definitely recommend it.  I find her writing lyrical and I appreciate stories that nest.  Good for lovers of fantasy.  One of her characters says something like, "It's better to read a book than have it described to you."  That certainly applies to this book.  I should mention for [Feltovich03] that it has a lot of cats.
+
+<i>Plan Chatter</i>
+
+[CohnAlex]: Is "Monday, November 30th -0001, 12:00 AM" the beginning of planstime?  (That question has nothing to do with today's Christian holiday; I just saw the date on someone's "Updated on".)
+
+[CohnAlex]: Unlike [Stone], I think the intentions behind the folks writing the software rules are good.  It's just that many of the folks who write the policies are nontechnical.  I got permission to use anything in a standard Linux distro (including git and Apache) within 24 hours of checking.  There are also more positive signs (which also signal some confusion) that I'd prefer not to post in an open forum.  And, whether we like it or not, it's clear that many faculty and staff were a bit clueless on what was appropriate, such as folks putting grades in Google Docs.  (To the best of my knowledge, that practice does not continue.)
+
+[CohnAlex]: I understand the desire to fight back against stupid policies, but an automated script is likely to further overwhelm people who are already overworked.  (Yes, I realize that my sympathy for ITS is probably a sign of the end of the world, or at least of Grinnell as we know it.)
+
+[CohnAlex] and [WooleryS]: I hope to see you the next time you vist Grinnell.  (Or perhaps when I next visit Madison, since Middle Son is now moving there.)
+
+[CohnAlex] and [Woolerys]: Don't they say "Third time's a charm"?  (This references paint colors.)
+
+([Palermo])
+
+[Stone]: I'm pretty sure that they're not going to budge on email and you're going to have to find a way to use the reseda@grinnell.edu address without forwarding it elsewhere.  I feel that I can trust the pronouncements of our Deputy CIO because the communication we received says "If you are unsure whether there is approval in place for a specific software title or service, please contact the Deputy Chief Information Officer".  I also don't take the Approved Software List as anywhere near complete since it begins "current events have meant that ITS' work on a service catalog has been paused".
+
+[WatsonD] and [French]: It looks like [Greenbe1] is doing some coordination.  I know that Michelle would like some more of the 3D printed parts of face shields for OB and some local dentists would like some, too.  We have a bunch of old transparences (the wonder of Sam's packrat tendencies) which we are using for the clear part of the face shields.
+
+([WebsterL17])
+
 <hr><b>Saturday, 2020-04-11, afternoon</b>
 
 I took a needed break from Plans.  But I got my Secret Santa gift in the mail, and it sounds like my Secret Santa got my gift in the mail to me.
@@ -598,6 +628,53 @@ Amen.
 <b><i>Disclaimer:</i></b> The ideas and opinions expressed herein are my own, and should not be attributed to Grinnell College, Grinnell's Department of Computer Science, SIGCSE, SIGCAS, any other organizations with which I am affiliated, my family, or even most sentient beings.
 
 <hr>
+<b><i>CS Table April 14</i></b>
+
+Next week in CS Table, we'll be taking a look at a 4-part series by Jim Browning about his efforts to bust online scammers.  In his own words:
+
+---
+When a scammer connected to my PC, I was able to reverse their connection and discover that they had CCTV. You're going to see the most detailed exposé of a tech support scam ever seen on YouTube. The company were called Faremart.com - A travel agency in Delhi who use their buildings and VOIP telephony to run various scams. They are one of hundreds of scam call centres in India and this one group will make over $3 million per year with scams
+---
+
+Jim Browning.  Spying on the Scammers.  Youtube.com.  March 2020.
++ Part 1: https://www.youtube.com/watch?v=le71yVPh4uk
++ Part 2: https://www.youtube.com/watch?v=uV-qa9M-o4E
++ Part 3: https://www.youtube.com/watch?v=jTXN9iTKHc8
++ Part 4: https://www.youtube.com/watch?v=G15xjQM-rGc
+
+We'll be meeting in the CS department's Collaborate space.  Information about how to join, including guest links and phone access if you cannot access the space, can be found below.
+
+Thanks!
+
+pm
+
+(His work was also covered by BBC's Panorama who followed up and produced a 30-minute documentary on Faremart.com:
+
+https://www.bbc.co.uk/iplayer/episode/m000fzx2/panorama-spying-on-the-scammers
+
+Unfortunately, this documentary is only free to view in the UK.  But cheers if you can watch it!)
+
+---
+
+During the spring semester, we will meet in the CS department's Blackboard Collaborate space.  To access this space:
+
+(1) If you have not already, go to PioneerWeb and make sure you can view the organizations that you are a part of.  To do this:
+   (a) Go to https://pioneerweb.grinnell.edu and log in.
+   (b) Assuming you haven't messed with the layout of your Blackboard landing page too much, click on "Add Module" in the top-left corner of the main page.
+   (c) Add the "My Organizations" module to your home page.
+   (d) Go back to your home page and access the "Computer Science Students" organization found under the "My Organizations" tab.  If you do not see this organization, that means you are not part of the group.  Please let me know, and we can figure out how to get you added from him.
+
+(2) Access the "Computer Science Students" organization and click on "Collaborate" in the left sidebar.  From there, select the relevant session and join the room!
+
+Alternatively, you can use these guest links to join the session as well
+
+Web:
+https://us.bbcollab.com/guest/5b05c02b0e6b480680c6bb563d961ab4
+
+Phone:
++1-571-392-7650 PIN: 513 643 7962
+
+<hr>
 <b><i>The Basics:</i></b>
 
 Samuel A. Rebelsky, Professor, Once and Future Chair of Computer Science
@@ -605,3 +682,4 @@ Department of Computer Science
 Grinnell College, 1116 8th Avenue, Grinnell, Iowa 50112
 Office: 641-269-4410 ; Fax: 641-269-4285 ; Cell: 641-990-2947
 [mailto:rebelsky@grinnell.edu|rebelsky@grinnell.edu] ; [http://www.cs.grinnell.edu/~rebelsky/|http://www.cs.grinnell.edu/~rebelsky/]
+
